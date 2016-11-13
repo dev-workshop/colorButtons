@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "color": "rebeccapurple",
+    "width": "30%"
+  },
+  {
+    "id": 1,
+    "color": "mistyrose",
+    "width": "60%"
+  },
+  {
+    "id": 2,
+    "color": "#00cb00",
+    "width": "40%"
+  },
+  {
+    "id": 3,
+    "color": "#058ef3",
+    "width": "90%"
+  }
+]
